@@ -5,5 +5,4 @@
   * Python
 
 * 개발환경
-  * Kaggle Notebook
   * Jupyter Notebook
